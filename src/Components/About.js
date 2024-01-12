@@ -1,4 +1,6 @@
 import React from "react";
+import { Worker, Viewer } from '@react-pdf-viewer/core';
+import '@react-pdf-viewer/core/lib/styles/index.css';
 
 const About = ({ data }) => {
   if (data) {
@@ -12,7 +14,12 @@ const About = ({ data }) => {
     var phone = data.phone;
     var email = data.email;
     var resumeDownload = data.resumedownload;
+    var resumePdf = "../public/MazenResume.pdf";
   }
+
+  const handleDownloadClick = () => {
+    window.open(resumePdf, "_blank");
+  };
 
   return (
     <section id="about">
@@ -45,10 +52,13 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} className="button">
+                <a onClick={handleDownloadClick} className="button">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
+              <Worker workerUrl={`https://unpkg.com/pdfjs-dist@2.7.570/build/pdf.worker.min.js`}>
+                <Viewer fileUrl={resumePdf} />
+              </Worker>
             </div>
           </div>
         </div>
