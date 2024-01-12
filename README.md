@@ -1,9 +1,9 @@
 # Mazen's Web Portfolio
-Welcome to My very own Web Portfolio. It entails a modern showcase of my skills, projects, and experiences. This web portfolio reflects my dedication to the world of web and software development, offering a seamless and visually appealing user experience.
+Welcome to the description of my very own Web Portfolio. It entails a modern showcase of my skills, projects, and experiences. This web portfolio reflects my dedication to the world of web and software development, offering a seamless and visually appealing user experience.
 
 ## Unique Features
 ### 1. Dynamic Introduction
-The header section introduces me with my name via a cool typewriter effect, providing an engaging and memorable welcome. It sets the tone for a personalized and modern portfolio experience.
+The header section introduces me, with my name, via a cool typewriter effect, providing an engaging and memorable welcome. It sets the tone for a personalized and modern portfolio experience.
 
 ### 2. Comprehensive Resume
 The resume section presents a detailed overview of my education, work experiences, and skills. The organized layout and visual representation of skills through a bar chart also contribute to an easy understanding of my qualifications.
@@ -36,13 +36,7 @@ Data is efficiently managed and organized using JSON, facilitating dynamic conte
 jQuery is utilized for additional functionality and interaction, enhancing the overall user experience.
 
 ## Getting Started
-To explore Mazen's Web Portfolio:
+### To explore Mazen's Web Portfolio:
+[click me!]([https://mazen-nu.vercel.app/])
 
-Clone the repository: git clone [repository_url]
-Navigate to the project directory: cd [project_directory]
-Install dependencies: npm install
-Start the development server: npm start
-Open your browser and visit http://localhost:3000 to view Mazen's portfolio.
-Feel free to connect with Mazen through the provided contact form or on LinkedIn and GitHub.
-
-Hope you enjoyed the README
+Hope you enjoyed the README.
