@@ -56,9 +56,6 @@ const About = ({ data }) => {
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
-              <Worker workerUrl={`https://unpkg.com/pdfjs-dist@2.7.570/build/pdf.worker.min.js`}>
-                <Viewer fileUrl={resumePdf} />
-              </Worker>
             </div>
           </div>
         </div>
