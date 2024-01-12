@@ -37,6 +37,6 @@ jQuery is utilized for additional functionality and interaction, enhancing the o
 
 ## Getting Started
 ### To explore Mazen's Web Portfolio:
-[click me!]([https://mazen-nu.vercel.app/])
+[click me!](https://mazen-nu.vercel.app/)
 
 Hope you enjoyed the README.
