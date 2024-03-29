@@ -13,7 +13,7 @@
       "state": "NY",
       "zip": "11235"
     },
-    "resumedownload": "https://s3.amazonaws.com/symp.csm.usprod/cunyinternship-oaa/files/9ff/9ffd6e78bb5fb09aec46bc2628b45a75.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAID3RBESXBCESHUGA%2F20240319%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240319T200151Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=457f2ba830e67becbee24afe235e4f38197f6e31a0967f559782d6787763b6ef",
+    "resumedownload": "https://mazen-nu.vercel.app/MazenResume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -34,7 +34,7 @@
         "school": "Grove School of Engineering at the City College of New York",
         "degree": "Bachelor of Science, Computer Science",
         "graduated": "May 2025",
-        "description": "Relevant Courses: Algorithms, Data Structures, Operating Systems, Software Engineering, Software Design in Java, Theoretical Computer Science, Object Oriented Programming in C++, Probabilities, Statistics, Discrete Math, Linear Algebra, Calculus 1-3."
+        "description": "Relevant Courses: Algorithms, Data Structures, Operating Systems, Software Engineering, Software Design in Java, Theoretical Computer Science, Databases, Object Oriented Programming in C++, Image Processing, Computer Graphics, Probabilities, Statistics, Discrete Math, Linear Algebra, Calculus 1-3."
       }
     ],
     "work": [
