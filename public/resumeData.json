@@ -3,7 +3,7 @@
     "name": "Mazen Zarrouk",
     "occupation": "Computer Science Student at CCNY",
     "description": "",
-    "image": "ProfilePic.jpg",
+    "image": "ProfilePic2.jpg",
     "bio": "Hi I'm Mazen! I'm a current computer science student, future software engineer, and New York City native. My passion for web and software development and the technology space as a whole brought me to the Grove School of Engineering at the City College of New York, where I'm currently pursuing a Computer Science degree. My career goal is to contribute to the development of innovative technologies and improve user experiences. I'm eager to learn and contribute to a dynamic team, and I'm confident that my skills and dedication to continuous learning would make me a valuable asset to any organization.",
     "contactmessage": "To get in contact with me, please use the form below",
     "email": "mazen.zarrouk2@gmail.com",
@@ -86,10 +86,16 @@
   "portfolio": {
     "projects": [
       {
+        "title": "WebWealth (A Finance Forum)",
+        "category": "Social Media",
+        "image": "finn.png",
+        "url": "https://wealthweb-pi.vercel.app/"
+      },
+      {
         "title": "Yapper (A Social Media Project)",
         "category": "Social Media",
         "image": "YapperLogo7.png",
-        "url": "https://github.com/rafi-d-z/Yapper"
+        "url": "https://yapper-alpha.vercel.app/"
       },
       {
         "title": "JavaFX Shape Visualization and Database Management Project",
