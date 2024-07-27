@@ -31,7 +31,7 @@
     "skillmessage": "Programming Language Proficiency",
     "education": [
       {
-        "school": "Grove School of Engineering at the City College of New York",
+        "school": "City College of New York, Grove School of Engineering",
         "degree": "Bachelor of Science, Computer Science",
         "graduated": "May 2025",
         "description": "Relevant Courses: Algorithms, Data Structures, Operating Systems, Software Engineering, Software Design in Java, Theoretical Computer Science, Databases, Object Oriented Programming in C++, Image Processing, Computer Graphics, Probabilities, Statistics, Discrete Math, Linear Algebra, Calculus 1-3."
@@ -39,13 +39,22 @@
     ],
     "work": [
       {
+        "company": "LVMH @ New York, NY",
+        "title": "Data Project Manager Intern, LVMH Beauty Tech Division",
+        "years": "May 2024 - August 2024",
+        "title": "Ticket Reporting Analytics Dashboard for Benefit Cosmetics",
+        "description": "I led the design and implementation of a full-stack analytics dashboard aimed at optimizing incident management within Benefit Cosmetics Retail stores. I architected an ETL process to standardize raw ticket data, ensuring accuracy across various data sources. I developed a master database for Power BI, pivotal in driving actionable business insights through dynamic metrics. I crafted visually compelling and intuitive dashboard elements while delivering real-time analytical capabilities through interactive features. Employing a project management methodology, I set milestones, timelines, action task due dates, and facilitated weekly progress meetings with teams at Benefit and LVMH. I conducted interviews with end users to align application functionality with operational requirements. Successfully deployed into production, the application now serves all LVMH Beauty Tech employees and leadership within Benefit Cosmetics. The tangible impacts of this project include halving ticket resolution times, decreasing manual report generation by 90% (saving one month's worth of billable hours annually), increasing customer and employee loyalty within Benefit, stimulating revenue growth for Benefit Cosmetics retail stores within the USA, and establishing a unified platform for incident analysis across multiple support systems. Plans are underway to scale this application to encompass other brands within the LVMH Beauty portfolio, such as Parfums Christian Dior, Givenchy Parfums, Kendo, and Acqua di Parma, in addition to scaling this application for internal support within LVMH.",
+        "title": "Ecommerce KPI Application for Parfums Christian Dior",
+        "description":"I aided in the refinement of disparate Dior ecommerce datasets from Salesforce, Google Analytics, LookerStudio Dashboards, Power BI semantic models, and Dior’s proprietary databases into a centralized master database. This initiative was critical in establishing a reliable dataset that reflects accurate ecommerce operations. I transformed the previous static reporting mechanisms into a dynamic and modern dashboard system. Stakeholders can now effortlessly navigate through ecommerce trends tied closely with sales metrics, site traffic patterns, order fulfillment rates, and customer service interactions. The dashboard has reduced report generation by 70% while creating a single version of truth derived from multifaceted data streams. It also supports OPEC and CAPEX decision-making by executives within LVMH and Christian Dior by uncovering KPIs essential for future revenue growth at Parfums Christian Dior. This application can be scaled further across other luxury brands under the LVMH umbrella. The dashboard signifies not just technological advancement but also exemplifies foresight in luxury brand management."
+      },
+      {
         "company": "The Difference @ Scarsdale, NY",
         "title": "Backend Engineering Intern",
         "years": "June 2023 - August 2023",
         "description": "As a Backend Software Engineering Intern at The Difference, I gained significant experience designing and optimizing MySQL databases. I implemented a new normalized schema that reduced data duplication by 18 percent across 8 core tables. To deliver a macro nutrition tracking feature by the deadline, I led a cross functional team to develop and launch that capability. My optimizations included building an aggregated results table that cut report generation time from two minutes to just five seconds. One major component involved migrating legacy data from 5 key tables into the new schema with 0 percent data loss. By crafting optimized INSERT and UPDATE queries, I improved the food table's performance by 22 percent whilst lowering storage by removing 10 unused columns. Additionally, I developed a highly requested routines table that enabled users to build customized workout plans with linked steps. I presented ERD diagrams and proposals to the CTO, directly influencing the future product roadmap. Through these database optimization, migration, and development initiatives, I made significant contributions in database performance, legacy system analysis, and new feature developments."
       },
       {
-        "company": "Google Software Engineering Program @ Manhattan, NY",
+        "company": "Google Software Engineering Program @ New York, NY",
         "title": "Participant",
         "years": "March 2023 - May 2023",
         "description": "As part of the intensive 10-week Google Software Engineering Program, I worked one-on-one with a Google software engineer to strengthen my skills in solving complex coding challenges involving arrays, strings, recursion and algorithms. Through this mentorship, I gained insider knowledge of Google's engineering culture, learning about company perks, business units, hiring practices and techniques for succeeding in their unique interview process. I built strong connections with Google employees while significantly expanding my own technical abilities and interview preparation through tackling challenging problems and receiving guidance from my mentor. The program provided me with invaluable insights and hands-on experience that helped fast-track my development as a software engineer. I acquired highly relevant skills and made impactful networking connections that continue to benefit my career growth."
