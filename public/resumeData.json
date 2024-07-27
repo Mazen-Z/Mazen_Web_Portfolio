@@ -46,14 +46,14 @@
       },
       {
         "company": "",
-        "title": "Ticket Reporting Analytics Dashboard for Benefit Cosmetics",
-        "years": "",
+        "title": "",
+        "years": "Ticket Reporting Analytics Dashboard for Benefit Cosmetics",
         "description": "I led the design and implementation of a full-stack analytics dashboard aimed at optimizing incident management within Benefit Cosmetics Retail stores. I architected an ETL process to standardize raw ticket data, ensuring accuracy across various data sources. I developed a master database for Power BI, pivotal in driving actionable business insights through dynamic metrics. I crafted visually compelling and intuitive dashboard elements while delivering real-time analytical capabilities through interactive features. Employing a project management methodology, I set milestones, timelines, action task due dates, and facilitated weekly progress meetings with teams at Benefit and LVMH. I conducted interviews with end users to align application functionality with operational requirements. Successfully deployed into production, the application now serves all LVMH Beauty Tech employees and leadership within Benefit Cosmetics. The tangible impacts of this project include halving ticket resolution times, decreasing manual report generation by 90% (saving one month's worth of billable hours annually), increasing customer and employee loyalty within Benefit, stimulating revenue growth for Benefit Cosmetics retail stores within the USA, and establishing a unified platform for incident analysis across multiple support systems. Plans are underway to scale this application to encompass other brands within the LVMH Beauty portfolio, such as Parfums Christian Dior, Givenchy Parfums, Kendo, and Acqua di Parma, in addition to scaling this application for internal support within LVMH."
       },
       {
         "company": "",
-        "title": "Ecommerce KPI Application for Parfums Christian Dior",
-        "years": "",
+        "title": "",
+        "years": "Ecommerce KPI Application for Parfums Christian Dior",
         "description": "I aided in the refinement of disparate Dior ecommerce datasets from Salesforce, Google Analytics, LookerStudio Dashboards, Power BI semantic models, and Dior’s proprietary databases into a centralized master database. This initiative was critical in establishing a reliable dataset that reflects accurate ecommerce operations. I transformed the previous static reporting mechanisms into a dynamic and modern dashboard system. Stakeholders can now effortlessly navigate through ecommerce trends tied closely with sales metrics, site traffic patterns, order fulfillment rates, and customer service interactions. The dashboard has reduced report generation by 70% while creating a single version of truth derived from multifaceted data streams. It also supports OPEC and CAPEX decision-making by executives within LVMH and Christian Dior by uncovering KPIs essential for future revenue growth at Parfums Christian Dior. This application can be scaled further across other luxury brands under the LVMH umbrella. The dashboard signifies not just technological advancement but also exemplifies foresight in luxury brand management."
       },
       {
