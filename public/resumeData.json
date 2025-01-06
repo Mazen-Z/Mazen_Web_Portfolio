@@ -104,13 +104,25 @@
   "portfolio": {
     "projects": [
       {
-        "title": "WebWealth (A Finance Forum)",
+        "title": "FlixRecs – AI Powered Movie Recommendation",
+        "category": "Artificial Intelligence",
+        "image": "flix.png",
+        "url": "https://flixrecs.com/"
+      },
+      {
+        "title": "Finantum - Quantum Portfolio Optimization",
+        "category": "Algorithms",
+        "image": "quantum.png",
+        "url": "https://github.com/Mazen-Z/FinantumAlgorithm"
+      },
+      {
+        "title": "WebWealth - Finance Forum",
         "category": "Social Media",
         "image": "finn.png",
         "url": "https://wealthweb-pi.vercel.app/"
       },
       {
-        "title": "Yapper (A Social Media Project)",
+        "title": "Yapper - Social Media Project",
         "category": "Social Media",
         "image": "YapperLogo7.png",
         "url": "https://yapper-alpha.vercel.app/"
@@ -120,18 +132,6 @@
         "category": "",
         "image": "JavaFX.png",
         "url": "https://github.com/Mazen-Z/JavaFX-Shape-Visualization-and-Database-Management-Project"
-      },
-      {
-        "title": "Finantum - Quantum Portfolio Optimization",
-        "category": "Algorithms",
-        "image": "quantum.png",
-        "url": "https://github.com/Mazen-Z/FinantumAlgorithm"
-      },
-      {
-        "title": "FlixRecs – AI Powered Movie Recommendation",
-        "category": "",
-        "image": "flix.png",
-        "url": "https://flixrecs.com/"
       }
     ]
   },
