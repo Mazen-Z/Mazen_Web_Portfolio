@@ -120,6 +120,18 @@
         "category": "",
         "image": "JavaFX.png",
         "url": "https://github.com/Mazen-Z/JavaFX-Shape-Visualization-and-Database-Management-Project"
+      },
+      {
+        "title": "Finantum - Quantum Portfolio Optimization",
+        "category": "Algorithms",
+        "image": "quantum.png",
+        "url": "https://github.com/Mazen-Z/FinantumAlgorithm"
+      },
+      {
+        "title": "FlixRecs – AI Powered Movie Recommendation",
+        "category": "",
+        "image": "flix.png",
+        "url": "https://flixrecs.com/"
       }
     ]
   },
